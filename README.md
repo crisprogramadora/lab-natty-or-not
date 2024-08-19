@@ -23,16 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book busca descobrir o impacto das IAs Generativas na nossa vida e como será para as futuras gerações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para criar o roteiro;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual da capa;
+- Ferramenta **Word** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para criar o conteúdo do e-book. Depois tentei criar uma arte para colocar na capa com o Leonardo AI. E por fim, usei o word para juntar os dois.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados foram medianos, uma vez que não consegui entender muito bem a ferramenta Leonardo AI.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
